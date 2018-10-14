@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+editline-d.so
+editline-d.dylib
+editline-d.dll
+editline-d.a
+libeditline-d.a
+editline-d.lib
+editline-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
